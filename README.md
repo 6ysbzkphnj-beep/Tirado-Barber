@@ -80,7 +80,7 @@ footer{border-top:1px solid #222;color:#888;text-align:center;padding:30px}.smal
   CONFIGURACIÓN:
   Pega aquí la URL de tu Google Apps Script cuando lo publiques.
 */
-const API_URL = "PEGA_AQUI_LA_URL_DE_APPS_SCRIPT";
+const API_URL = "https://script.google.com/macros/s/AKfycbxRJwkPV4PcIQQCXnKKH2QIubgehiImYYIs_HEn3A2OPpg-NmC87FyNegUpm2N23go/exec";
 
 const dateInput=document.getElementById("date");
 const timeSelect=document.getElementById("time");
